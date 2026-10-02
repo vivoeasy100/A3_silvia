@@ -1,0 +1,6 @@
+# Credenciais sensíveis do banco de dados
+CREDENCIAIS_SUPABASE.txt
+
+# Arquivos temporários e logs
+*.log
+*.tmp
